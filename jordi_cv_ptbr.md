@@ -26,8 +26,8 @@ Experiência em planejamento e implantação de projetos. Power user de Microsof
 ### Graduação em Engenharia de Produção - Ênfase em Projetos Mecânicos
 
 #### Universidade do Estado de Santa Catarina, UDESC. São Bento do Sul, Santa Catarina
-
 > 2012 - 2017
+
 ---
 
 ## CURSOS
@@ -36,11 +36,12 @@ Experiência em planejamento e implantação de projetos. Power user de Microsof
 
 - Excel Avançado (SOCIESC, 2018)
 
+---
 ## IDIOMAS
 
 ### Inglês
 
-- Nível de proficiência avançado, com experiência como tradutor e em condução de reuniões de projeto.
+- Nível de proficiência avançado com experiência como tradutor e em condução de reuniões de projeto.
 
 ### Espanhol
 
