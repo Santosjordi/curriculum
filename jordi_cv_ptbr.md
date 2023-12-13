@@ -1,6 +1,4 @@
-# JORDI WELITON DOS SANTOS
-
-## INFORMAÇÃO PESSOAL
+## JORDI WELITON DOS SANTOS
 
 - Analista de Sistemas, Engenheiro de Produção
 - Rua Alwin  Venske, 132. Itoupava Central, Blumenau - SC
@@ -9,13 +7,13 @@
 
 ---
 
-## RESUMO
+### RESUMO
 
 Experiência em planejamento e implantação de projetos. Power user de Microsoft Excel. Pós-graduado em Engenharia de Software. Graduado em Engenharia de Produção - Habilitação Mecânica. Atualmente cursando Ciência de Dados. Inglês Fluente, experiência com times globais. Key user SAP SD. Experiência desenvolvendo e testando APIs REST. Experiência no desenvolvimento de middleware para integração. Experiência com processamento de dados usando python. Elaboração e controle de indicadores de capacidade e entrega.
 
 ---
 
-## FORMAÇÃO
+### FORMAÇÃO
 
 ### Especialização em Engenharia de Software
 
@@ -30,14 +28,14 @@ Experiência em planejamento e implantação de projetos. Power user de Microsof
 
 ---
 
-## CURSOS
+### CURSOS
 
 - Green Belt Lean Seis Sigma (R&L e Associados, 2014)
 
 - Excel Avançado (SOCIESC, 2018)
 
 ---
-## IDIOMAS
+### IDIOMAS
 
 ### Inglês
 
@@ -49,7 +47,7 @@ Experiência em planejamento e implantação de projetos. Power user de Microsof
 
 ---
 
-## EXPERIÊNCIA PROFISSIONAL
+### EXPERIÊNCIA PROFISSIONAL
 
 ### **Analista de Sistemas na Malwee Malhas ltda.**
 
@@ -71,7 +69,7 @@ Jaraguá do Sul, Santa Catarina.
 
 > 12/2019 - 9/2021
 
-- Desenvolvimento e monitoramento de indicadores de desempenho em Power BI ou Google Looker Studio, programação em VBA, DAX e Power Query M
+- Desenvolvimento e monitoramento de indicadores de desempenho em Power BI e Google Looker Studio, programação em VBA, DAX e Power Query M
 - Conhecimento em SAP, módulos PP e MM
 - Participação ativa em grupos de melhoria
 - Experiência em implantação de software
@@ -81,9 +79,9 @@ Jaraguá do Sul, Santa Catarina.
 Campo Alegre, Santa Catarina.
 > 03/2017 - 11/2019
 
-- Responável por desenhar processos de fabricação em CAD, engenharia de processos de fabricação
+- Responsável por desenhar processos de fabricação de chicotes elétricos em CAD
 - Experiência com Análise de Modo e Efeito de Falhas (FMEA)
-- Experiência em engenharia da qualidade automotiva
+- Experiência em engenharia da qualidade automotiva, especificamente em chicotes elétricos
 - Responsável por melhorias de processo de engenharia de produto
 
 ### **Estagiário de Engenharia na EAGARBE Engenharia e Planejamento Ltda**
